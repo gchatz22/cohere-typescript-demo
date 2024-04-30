@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cohere-ai": "^7.9.5",
+    "langchain": "^0.1.36",
+    "vectra": "^0.7.6",
+    "wikipedia": "^2.1.2"
+  }
+}
